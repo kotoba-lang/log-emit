@@ -2,7 +2,7 @@
  :deps {
         io.github.kotoba-lang/coll
         {:git/url "https://github.com/kotoba-lang/coll.git"
-         :git/sha "40715c2abb528e933d6d129447c88de3aa9bcaaa"}
+         :git/sha "9740cc2dc43a192077d77374b869a37940c801e4"}
         io.github.kotoba-lang/log-level-enabled
         {:git/url "https://github.com/kotoba-lang/log-level-enabled.git"
          :git/sha "29b389379cdfe7358eff1c382e0332df3ad9ddbd"}}
